@@ -1,0 +1,54 @@
+body {
+font-family: sans-serif;
+}
+
+h1 {
+border: 5px solid black;
+font-size: 48px;
+text-align: center;
+}
+
+p {
+font-size: 24px;
+}
+
+.primero {
+border:20px double red;
+border-bottom: 0px solid white;
+border-right: 0px solid white;
+}
+
+.segundo {
+border-style: dashed dashed dashed solid;
+border-width: 5px 10px 20px 40px;
+border-color: blue green;
+}
+
+.tercero {
+border-width: 40px 10px;
+border-style: double;
+border-color: gold;
+}
+
+.cuarto {
+border-width: 20px;
+border-top-style: solid;
+border-bottom-style: solid;
+border-top-color: lime;
+border-bottom-color: blue;
+}
+
+.quinto {
+border-width: 40px;
+border-top-style: dashed;
+border-left-style: solid;
+border-right-style: solid;
+border-bottom-style: dotted;
+border-color: red black black black;
+}
+
+.sexto {
+border-width: 10px 40px 20px 40px;
+border-style: dotted solid dashed double;
+border-color: black black black red;
+}
